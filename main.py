@@ -1,6 +1,6 @@
 from twilio.rest import Client
-TWILIO_ACCOUNT_SID = "ACd330315b95a5f42f53b0bd3dc1b477af"
-TWILIO_AUTH_TOKEN = "c9a7c305c103161ecda0acafd6eaedcf"
+TWILIO_ACCOUNT_SID = ""
+TWILIO_AUTH_TOKEN = ""
 
 twilioClient = Client(TWILIO_ACCOUNT_SID,TWILIO_AUTH_TOKEN)
 from_whatsapp_number='whatsapp:+14155238886'
